@@ -2,9 +2,6 @@
   "name": "crypto-pro",
   "description": "API для взаимодействия с КриптоПро",
   "main": "./lib/crypto-pro.js",
-  "authors": [
-    "vgoma <vgoma@yandex.ru>"
-  ],
   "license": "MIT",
   "keywords": [
     "crypto",
@@ -14,7 +11,7 @@
     "КриптоПро",
     "Крипто ПРО"
   ],
-  "homepage": "https://github.com/vgoma/crypto-pro",
+  "homepage": "https://github.com/GosZakaz/CryptoProModules.git",
   "ignore": [
     "**/.*",
     "/*.js",

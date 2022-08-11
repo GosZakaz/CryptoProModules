@@ -35,12 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vgoma/crypto-pro"
-  },
-  "author": {
-    "name": "Vitalii Goma",
-    "email": "vgoma@yandex.ru",
-    "url": "https://github.com/vgoma"
+    "url": "https://github.com/GosZakaz/CryptoProModules.git"
   },
   "keywords": [
     "crypto",
